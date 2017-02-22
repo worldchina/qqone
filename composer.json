@@ -42,8 +42,7 @@
         "psr-0":
  {
 
-            "Jenner\\Zebra\\MessageQueue":
-"src/"
+            "Jenner\\":"src/"
 
         }
 
