@@ -1,21 +1,15 @@
 {
 
-    "name":
-"jenner/comxia",
+    "name":"jenner/comxia",
 
-    "description":
-"php
- message queue wrapper",
+    "description":"phpmessage queue wrapper",
 
-    "license":
-"MIT",
+    "license":"MIT",
 
     "keywords":
- ["message
- queue"],
+ ["messagequeue"],
 
-    "version":
-"1.0.0",
+    "version":"1.0.0",
 
     "authors":
  [
